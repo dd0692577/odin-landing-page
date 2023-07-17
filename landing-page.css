@@ -18,6 +18,11 @@ background-color: #3882F6;
 border: none;
 }
 
+img{
+    width: 500px;
+    height: 200px;
+}
+
 .second-section{
     background-color:white;
 }
