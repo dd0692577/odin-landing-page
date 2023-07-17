@@ -3,3 +3,11 @@ body{
     background-color: #1F2937;
     display: flex;
 }
+
+.first-section{
+    display: flex;
+}
+
+.h1{
+    font-family: 'Roboto', Courier, monospace;
+}
