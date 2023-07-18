@@ -6,39 +6,48 @@ body{
 
 .first-section{
     display: flex;
+    justify-content: center;
     align-items: center;
+    margin: 130px;
+    padding: 20px;
 }
 
 .first-info{
     display: flex;
     flex-direction: column;
-    margin: 15px;
-    align-items: center;
+    justify-content:space-around;
+    align-items: flex-start;
+    
+}
+.hero-main{
+    margin-top: auto;
+    padding-right: 200px;
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-secondary{
+    font-size: 24px;
+    color: #E5E7EB;
+    padding-right: 80px;
+    padding-bottom: 30px;
 }
 
 button{
 color: white;
 background-color: #3882F6;
 border: none;
-border-radius: 2px;
-width: 60px;
-}
-
-.placeholder{
- display: flex;
- flex-direction: column;
+border-radius: 9px;
+width: 100px;
+height:40px;
 }
 
 img{
-    width: 400px;
-    height: 250px;
+    width: 1000px;
+    height: 320px;  
 }
 
 .second-section{
-    background-color:white;
-}
-
-.img{
-    width: 50px;
-    height: 500px;
+    background-color: white;
 }
