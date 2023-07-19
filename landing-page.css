@@ -53,8 +53,8 @@ img{
 }
 
 .square{
-    height: 50px;
-    width: 50px;
-    background-color: white;
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
     border-color:#3882F6;
 }
