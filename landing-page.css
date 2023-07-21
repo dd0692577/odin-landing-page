@@ -55,6 +55,7 @@ img{
 .square{
     height: 100px;
     width: 100px;
-    background-color: aquamarine;
-    border-color:#3882F6;
+    background-color: rgb(185, 112, 112);
+    border-radius: 10px;
+    outline: 10px #3882F6;
 }
