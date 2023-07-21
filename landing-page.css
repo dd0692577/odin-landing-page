@@ -55,7 +55,7 @@ img{
 .square{
     height: 100px;
     width: 100px;
-    background-color: rgb(185, 112, 112);
+    background-color: white;
     border-radius: 10px;
-    outline: 10px #3882F6;
+    border: 5px solid #3882F6;
 }
