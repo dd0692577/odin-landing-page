@@ -110,9 +110,16 @@ img{
 
 .fourth-section{
     background-color: white;
-    displ
+    display: flex;
 }
 
 .advert{
     background-color:#3882F6 ;
+    display: flex;
+    flex-direction: column;
+}
+
+.call-to-action{
+    color:white;
+    margin-bottom: auto;
 }
