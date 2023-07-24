@@ -84,4 +84,13 @@ img{
 
 .third-section{
     background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.quote{
+   font-size: 36px;
+   font-style: italic; 
+   color: #1F2937;
 }
