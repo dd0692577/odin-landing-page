@@ -58,6 +58,7 @@ img{
 
 .gallery{
     display: flex;
+    justify-content: center;
 }
 
 .random-info{
