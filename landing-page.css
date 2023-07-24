@@ -120,14 +120,10 @@ img{
 }
 
 .advert-right{
+    color: white;
 
-}
-
-.call-to-action{
-    color:white;
-    margin-bottom: auto;
 }
 
 .advert-signup{
-
+    border-style: solid;
 }
