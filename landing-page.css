@@ -59,6 +59,7 @@ img{
 .gallery{
     display: flex;
     justify-content: center;
+    padding: 15px;
 }
 
 .random-info{
@@ -79,4 +80,8 @@ img{
 .subtext{
     text-align: center;
     width: 150px;
+}
+
+.third-section{
+    background-color: #E5E7EB;
 }
