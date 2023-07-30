@@ -4,6 +4,14 @@ body{
     flex-direction: column;
 }
 
+.header{
+    display: flex;
+}
+
+.header-links{
+
+}
+
 .first-section{
     display: flex;
     justify-content: center;
@@ -129,9 +137,21 @@ img{
 .advert-right{
     color: white;
     padding: 80px;
+}
 
+p,
+.advert-right{
+    margin-top: 0px;
 }
 
 .advert-signup{
     border-style: solid;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 20px;
 }
